@@ -1,2 +1,4 @@
 ipyKernel
 numpy
+pandas
+maplotlib
